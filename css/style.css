@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.navcontent{
+    padding-left: 30rem;
+}
+
+.nav-item{
+    padding: 0 1rem;
+}
+
+.navbutton{
+    padding-top: 6px;
+    padding-left: 4rem;
+}
+
+.navbar-brand{
+    padding-left: 3rem;
+}
+
+.ourmotto{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.ourmottoinside{
+    padding-left: 16rem;
+}
+
+.introbuttons{
+    margin-top: 1rem;
+    margin-right: 10px;
+}
+#userexperience{
+padding-top: 70px;
+padding-bottom: 80px;
+}
+.userexperienceimg{
+    padding-left: 12rem;
+}
+
+.doing-list{
+    padding-right: 25px;
+}
+
+#features{
+    
+    padding-bottom: 80px;
+
+}
+.featuresmotto{
+    text-align: center;
+    padding-bottom: 25px;
+}
+.featurestext{
+    margin: 0;
+}
+
+.features-points{
+    padding: 20px 40px;
+}
+.we-do{
+    padding: 5px 12px;
+}
+.features-black{
+    background-color: black;
+    color: white;
+}
+
+.features-white{
+    border-radius: 3px;
+    border-color: black;
+}
+
+
+#our-users{
+    padding-left: 35px;
+    padding-right: 45px;
+    padding-bottom: 65px;
+}
+
+.blackbox{
+    padding-bottom: 10px;
+}
+.allboxes{
+    height: 100%;
+    width: 80%;
+}
+
+#members{
+    padding-bottom: 30px;
+}
+.membersinfo{
+    text-align: center;
+}
+.members-text{
+    padding: 10px;
+}
+.memberscart{
+    padding: 35px 25px;
+}
+#reviews{
+    background-color: #BBBBBB;
+    padding-bottom: 80px;
+}
+
+.reviewtexts{
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding-left: 35px;
+}
+.reviewimage{
+    border-radius:50%;
+    padding-bottom: 15px;
+}
+
+.footer{
+  background: #000000;
+  color:white;
+  margin: 0;
+  border: 0px;
+  padding: 0px;
+  }
+
+  #bottom{
+      padding-top: 70px;
+  }
+#bottom ul li{
+    list-style-type: none;
+    padding: 0;
+    
+}
+.bottomcontent{
+    height: 200px;
+    width: 150;
+}
